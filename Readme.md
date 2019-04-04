@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/HowToSaveLayout/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/HowToSaveLayout/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/HowToSaveLayout/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToSaveLayout/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/HowToSaveLayout/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToSaveLayout/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to save and restore the layout to/from XML
